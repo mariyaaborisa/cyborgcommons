@@ -247,6 +247,7 @@ footer {
 .event-head { display: flex; flex-wrap: wrap; gap: 20px 32px; align-items: center; justify-content: space-between; }
 .event-text { display: flex; flex-direction: column; gap: 20px; flex: 1 1 340px; min-width: 0; }
 .frog { width: 100%; max-width: 280px; height: auto; flex: 0 1 280px; }
+.headshot { width: 100%; max-width: 220px; height: auto; flex: 0 1 220px; border-radius: 6px; }
 
 @media (max-width: 480px) {
   .countdown { gap: 12px; padding: 14px; }
